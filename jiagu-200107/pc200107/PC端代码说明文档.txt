@@ -1,0 +1,13 @@
+PC端代码说明文档：
+
+apktool：程序运行主流程，完成apk的自动加壳、签名等功能；
+EncMode：库生成代码，完成对壳程序dex的签名，so库的签名，生成classes.bin文件（AES算法模式）；
+EncModesm4：库生成代码，完成对壳程序dex的签名，so库的签名，生成classes.bin文件（SM4算法模式）；
+keySwitch：库生成代码，完成对密钥的黑盒变换（AES算法模式）；
+keySwitchsm4：库生成代码，完成对密钥的黑盒变换（SM4算法模式）；
+modXml：解析AndroidManifest.xml二进制文件，并对其进行修改。
+wbAES:使用加密密钥，生成解密需要的查找表
+
+apktool文件夹下为运行代码
+只需要将要加固的apk放入apktool/test文件夹中
+运行maketest.py即可将能加固的apk进行加固

@@ -1,0 +1,4 @@
+#Thu Mar 14 10:42:54 CST 2019
+base.0=C\:\\vm\\shellcomfinal_backup_new\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\vm\\shellcomfinal_backup_new\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

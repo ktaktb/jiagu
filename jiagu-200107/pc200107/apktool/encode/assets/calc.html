@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var rs = 0;
+			function calc(str){
+				rs  = eval("("+str+")");
+				document.getElementById("dd").innerHTML=rs;
+			}
+		</script>
+		<style>
+
+			body{
+				margin:0px 0px;
+				padding:0px 0px;
+				background-color:black;
+			}
+			input{
+				width:100%;
+				height:100%;
+				margin:0px 0px;
+				padding:0px 0px;
+				border:0 none;
+				background-color:black;
+				color:white;
+			}
+		</style>
+	</head>
+	<body id="dd" bgcolor="bl" >
+		<input type="text"  value="123" readonly="true" disabled="disabled">
+	</body>
+</html>

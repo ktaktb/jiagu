@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:2:70-98
+		INJECTED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml
+		INJECTED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:3:5-69
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:3:22-67
+application
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:5-24:16
+	android:label
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:82-114
+	android:allowBackup
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:18-44
+	android:icon
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:45-81
+	android:theme
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:148-179
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:4:115-147
+activity#com.test.testshell.MainActivity
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:5:9-9:20
+	android:label
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:5:19-51
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:5:52-98
+intent-filter#android.intent.action.MAIN
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:6:13-8:29
+action#android.intent.action.MAIN
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:7:17-68
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:7:25-66
+activity#com.test.testshell.MyDemoActivity
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:10:9-15:20
+	android:label
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:10:19-51
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:10:52-100
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:11:13-14:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:13:17-76
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:13:27-74
+provider#com.test.testshell.MyDemoProvider
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:16:5-113
+	android:authorities
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:16:15-62
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:16:63-111
+service#com.test.testshell.MyService
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:17:5-59
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:17:14-57
+receiver#com.test.testshell.MyDemoReceiver
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:18:2-62
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:18:12-60
+service#com.test.testshell.MyDemoService
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:19:2-23:15
+	android:exported
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:19:59-83
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:19:11-58
+intent-filter#com.test.testshell.MyDemoService.Start
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:20:13-22:29
+action#com.test.testshell.MyDemoService.Start
+ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:21:17-81
+	android:name
+		ADDED from C:\vm\shellcomfinal_backup_new\app\src\main\AndroidManifest.xml:21:25-78

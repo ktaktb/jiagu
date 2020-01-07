@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="lay">false</item>
+    <item type="id" name="rsText">false</item>
+    <item type="id" name="left">false</item>
+    <item type="id" name="right">false</item>
+    <item type="id" name="tonone">false</item>
+    <item type="id" name="delete">false</item>
+    <item type="id" name="num7">false</item>
+    <item type="id" name="num8">false</item>
+    <item type="id" name="num9">false</item>
+    <item type="id" name="division">false</item>
+    <item type="id" name="num4">false</item>
+    <item type="id" name="num5">false</item>
+    <item type="id" name="num6">false</item>
+    <item type="id" name="multiply">false</item>
+    <item type="id" name="num1">false</item>
+    <item type="id" name="num2">false</item>
+    <item type="id" name="num3">false</item>
+    <item type="id" name="minus">false</item>
+    <item type="id" name="dot">false</item>
+    <item type="id" name="num0">false</item>
+    <item type="id" name="equ">false</item>
+    <item type="id" name="plus">false</item>
+    <item type="id" name="menu_settings">false</item>
+</resources>

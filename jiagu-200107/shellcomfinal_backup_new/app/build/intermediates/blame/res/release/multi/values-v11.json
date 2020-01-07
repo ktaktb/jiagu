@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\vm\\shellcomfinal_backup_new\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "C:\\vm\\shellcomfinal_backup_new\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 311
+                    }
+                }
+            }
+        ]
+    }
+]

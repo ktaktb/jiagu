@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.test.testshell">
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <application android:allowBackup="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="MyDemoApplication" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.test.testshell.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name="com.test.testshell.MyDemoActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    <provider android:authorities="com.example.forshell.mycp" android:name="com.test.testshell.MyDemoProvider"/>
+    <service android:name="com.test.testshell.MyService"/>
+	<receiver android:name="com.test.testshell.MyDemoReceiver"/>
+	<service android:name="com.test.testshell.MyDemoService" android:exported="false">
+            <intent-filter>
+                <action android:name="com.test.testshell.MyDemoService.Start" />
+            </intent-filter>
+    </service>
+	</application>
+</manifest>

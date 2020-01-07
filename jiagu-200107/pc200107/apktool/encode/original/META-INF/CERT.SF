@@ -1,0 +1,253 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: V3rr6j6ty2j79A71FjVOD1NTUhw=
+Created-By: 1.0 (Android)
+
+Name: bsh/commands/setClassPath.bsh
+SHA1-Digest: TgTgLHm/xsJ27BBJaepqqKWPLSA=
+
+Name: bsh/util/lib/small_bean_shell.gif
+SHA1-Digest: X+ZJKr82HvJpvBf01LJ/2gRxKnY=
+
+Name: bsh/servlet/result.template
+SHA1-Digest: OduMWfAa45NxydwCPxuTNHXjxrM=
+
+Name: bsh/commands/which.bsh
+SHA1-Digest: X0oX0KTnX5QMSjxOZbqJ1oeTpEk=
+
+Name: res/drawable/blue.xml
+SHA1-Digest: 0qUCWZWS0kCLJCvd/JMEzeV/ClA=
+
+Name: bsh/commands/sourceRelative.bsh
+SHA1-Digest: sc3UVsJ8ZVolUOi3+rIPkbiuTv0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: CQG0zEeFTuXQwsrQ9RH0eYV+FDU=
+
+Name: bsh/commands/bind.bsh
+SHA1-Digest: /QCxN/aUx6eU8aWLWMM+0zH8UTg=
+
+Name: bsh/commands/pathToFile.bsh
+SHA1-Digest: /FkdylqLPJ6EtvjuA/vnb5jS4Ls=
+
+Name: bsh/commands/clear.bsh
+SHA1-Digest: HKIlO+ciUVa5wU5jB2f+vXpXsug=
+
+Name: bsh/util/lib/remote.html
+SHA1-Digest: Nrdv+ug9ztv6XmUXEJqM7QlzTvM=
+
+Name: bsh/commands/setNameCompletion.bsh
+SHA1-Digest: WqhwU4OmxQcmhPdzSy+zmK6SCV8=
+
+Name: res/menu/calculator.xml
+SHA1-Digest: TIANl91f373GRJY5m23meaEYHLM=
+
+Name: bsh/util/lib/eye.jpg
+SHA1-Digest: 6K0RXyU95iqzy2MSHRzMdQYqdrY=
+
+Name: bsh/commands/setStrictJava.bsh
+SHA1-Digest: K1k6q9JPA8AcJgypbhlSYEbSa0U=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: tLFT/6eHbrQmFkJRNCjHQ+Ipaws=
+
+Name: bsh/commands/frame.bsh
+SHA1-Digest: 8oLD2vmC6JXJmwZ4w0SGG+B4Olg=
+
+Name: bsh/commands/setNameSpace.bsh
+SHA1-Digest: vYxJ+KGOKFNN+HG2nA/rZwC4xtQ=
+
+Name: bsh/commands/getClassPath.bsh
+SHA1-Digest: 78gdBP+OjKL1qW2nSHncfydKHYY=
+
+Name: res/drawable/black_c.xml
+SHA1-Digest: XfS5Arm57pp2ljOBUyFmjSgoyRo=
+
+Name: bsh/commands/load.bsh
+SHA1-Digest: bdQPVXRAqDoH2gGrZBkSBLmJCDA=
+
+Name: bsh/commands/pwd.bsh
+SHA1-Digest: q6TQXmzPCP9w0DsLeZfPiI4PkHA=
+
+Name: bsh/commands/addClassPath.bsh
+SHA1-Digest: NAuGv9FBpk1cjOLukhf2G3mbfzo=
+
+Name: bsh/util/lib/script.gif
+SHA1-Digest: 6MiVEG4+mw5/ScrVJDcRiBMYLJA=
+
+Name: bsh/commands/browseClass.bsh
+SHA1-Digest: i43ZNppTDI5gjNRbhKGg5koXTdg=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: pJlZTCxp2GQWNrTmAv7naJGR9OA=
+
+Name: res/drawable/black.xml
+SHA1-Digest: NZAyC2P1SxfG3SZrPG+Nv8XCz5A=
+
+Name: bsh/commands/getBshPrompt.bsh
+SHA1-Digest: WS8S39zM8eSu73x5aE7wdx1Rk4s=
+
+Name: res/drawable/blue_c.xml
+SHA1-Digest: PlUd4TOBDLvXuo23C8s6NR92S2I=
+
+Name: bsh/commands/show.bsh
+SHA1-Digest: XtplcwuLIMlxlnj84C2zWEk8FkU=
+
+Name: bsh/commands/debug.bsh
+SHA1-Digest: O20qjRrq/F7FpkvaI/mk/Kt5HwU=
+
+Name: bsh/util/lib/workspace.gif
+SHA1-Digest: KsbTrbeKxOt8SJaR0kP5SsduN/k=
+
+Name: bsh/commands/reloadClasses.bsh
+SHA1-Digest: BgzTQPXyZIkSnQBqVXYkUDMpQ9Y=
+
+Name: bsh/commands/desktop.bsh
+SHA1-Digest: m4cG1dRvf4zeeqWgJXC5kmVD3o8=
+
+Name: bsh/util/lib/splash.gif
+SHA1-Digest: TQ6lYDZNd79X3qWff1Fb+DXrQRw=
+
+Name: resources.arsc
+SHA1-Digest: sWY421F9VfLekOT0kOqAcGwEnuA=
+
+Name: bsh/commands/exec.bsh
+SHA1-Digest: cBPWLXPFwqAVv4sLP5hHjBU0YrA=
+
+Name: bsh/servlet/getVersion.bsh
+SHA1-Digest: yR26IR0bkqXVAdqoiMr3wiySWAY=
+
+Name: bsh/util/lib/jconsole.html
+SHA1-Digest: 3hGFDgVi4kJhVOhvs1Zalad4yj4=
+
+Name: bsh/commands/unset.bsh
+SHA1-Digest: +2iCRVIrBIQi5SAzrwceOJcxgto=
+
+Name: AndroidManifest.xml
+SHA1-Digest: puFh5pW9oDwyTQxxv0PDuLvxUug=
+
+Name: bsh/commands/printBanner.bsh
+SHA1-Digest: x5E2RsTkvVqjCbVJW2bY8T+qK2U=
+
+Name: bsh/commands/run.bsh
+SHA1-Digest: 8wpG2+zOSdNIGwP5i9oJtQmpY38=
+
+Name: res/layout/calculator.xml
+SHA1-Digest: qZHZbrQQnNn/SiwZkvS/ErlB8lg=
+
+Name: bsh/commands/bg.bsh
+SHA1-Digest: P5eKv8z1L+4fDacNl5toY6FjzQc=
+
+Name: bsh/commands/save.bsh
+SHA1-Digest: PVKfJfSVh5IaaNnW1uNE3hcgk/A=
+
+Name: bsh/commands/workspaceEditor.bsh
+SHA1-Digest: mVuvCEGm1g4+DvW2CP4R4SM3/Tc=
+
+Name: bsh/servlet/page.template
+SHA1-Digest: Jwo4smd7ZYWHgZ33luO5vdqoaJ8=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: fduWmWMpktH/twgL66fadXtCtUk=
+
+Name: bsh/commands/getResource.bsh
+SHA1-Digest: dfmaGr/CXlcut12XYpbIbwNOpR8=
+
+Name: bsh/commands/importCommands.bsh
+SHA1-Digest: c87hNJrNtLlG/XbLP2ob9XYeyN8=
+
+Name: bsh/commands/print.bsh
+SHA1-Digest: lxy7umzAwoVmqWlOErOWj8KLyqE=
+
+Name: bsh/commands/getClass.bsh
+SHA1-Digest: ColiI2JvPd8hDQr6jZGjyjyOtjY=
+
+Name: bsh/commands/cp.bsh
+SHA1-Digest: eaoFwonkD+N07jUeYCjF/VYSbfY=
+
+Name: bsh/commands/setFont.bsh
+SHA1-Digest: WMmyg4FftXyBzlYuDS5fNgQuFr4=
+
+Name: bsh/commands/getSourceFileInfo.bsh
+SHA1-Digest: 5NLXKMGu7GSfeIkOua1eldPWr7U=
+
+Name: bsh/commands/editor.bsh
+SHA1-Digest: 2SsrRAQnAIVN10fU8c1BLXdeJCM=
+
+Name: bsh/util/lib/icon.gif
+SHA1-Digest: NlKyBztlt+auWIKFveeCq4MYE1s=
+
+Name: bsh/commands/dirname.bsh
+SHA1-Digest: fZotpb3j1/G5ebL/k4COcg5S34I=
+
+Name: bsh/commands/makeWorkspace.bsh
+SHA1-Digest: yzMeA1Kgb5Au1HatPIvvJoa8hpg=
+
+Name: bsh/commands/cd.bsh
+SHA1-Digest: d35YIc977hp/42PpmFIAjT1pTIM=
+
+Name: bsh/commands/eval.bsh
+SHA1-Digest: szr0MIoHhGMQzig44y+dkKq/Bu8=
+
+Name: bsh/util/lib/awtconsole.html
+SHA1-Digest: 626ahRmxbKkCoZl9ihxh7TlxKNM=
+
+Name: bsh/commands/javap.bsh
+SHA1-Digest: o5YtPRQN9PXnyHD1oUwMVvLtZOA=
+
+Name: bsh/commands/server.bsh
+SHA1-Digest: meXOCchRH3DiGx5ZR4HoRNCnw3M=
+
+Name: bsh/commands/exit.bsh
+SHA1-Digest: vlnUse/+Ng+pmkQ3TjEQmHADeZA=
+
+Name: bsh/commands/source.bsh
+SHA1-Digest: 7cUdpNtJOIadOtMpC6zSeTT+s4E=
+
+Name: bsh/commands/cat.bsh
+SHA1-Digest: kd7NFnwg/+TYUgaVtNXERO9Wx9s=
+
+Name: bsh/commands/rm.bsh
+SHA1-Digest: 77srp0UG84ih6hGyrV66omEyFNc=
+
+Name: assets/calc.html
+SHA1-Digest: kVVYIcphWoMy6rDIGhgIYfPoYmg=
+
+Name: bsh/commands/extend.bsh
+SHA1-Digest: 89rF24JnZaHpleQLkE8Efu38LSI=
+
+Name: bsh/commands/error.bsh
+SHA1-Digest: /HgfCDzliqxgcyI1DiXRpcY2wDM=
+
+Name: bsh/commands/setAccessibility.bsh
+SHA1-Digest: gQ+CykdxW+cZRYfke0XrRbJButU=
+
+Name: bsh/commands/importObject.bsh
+SHA1-Digest: gnaOujyRMiAAMB6JV1SWPtzwvmE=
+
+Name: bsh/servlet/error.template
+SHA1-Digest: EkRVZii4gcK709PQGimY80MaB3o=
+
+Name: bsh/commands/mv.bsh
+SHA1-Digest: HQCJamtI6tO0KmXgsHg66ew3AKo=
+
+Name: bsh/commands/thinBorder.bsh
+SHA1-Digest: MdZoM4rzQn+W2CY0yomTr1iLvU0=
+
+Name: bsh/commands/fontMenu.bsh
+SHA1-Digest: 1kWovJlhKVw9C2bsaol4Ma1kktI=
+
+Name: res/drawable/numclk.xml
+SHA1-Digest: dcgHVAMTCae6VZGnAP/dZ+H/buk=
+
+Name: bsh/commands/classBrowser.bsh
+SHA1-Digest: DtRKMo5U0D3+l478H9us+yEY7SA=
+
+Name: classes.dex
+SHA1-Digest: rKKD4OKxaVeRCyVuyT9/h5lL0WA=
+
+Name: bsh/commands/object.bsh
+SHA1-Digest: n0S415Vj/T8YWf9HQQx9yPoMgzg=
+
+Name: res/drawable/funclk.xml
+SHA1-Digest: i4PCiUiYQmj8rN9RxADNJyVV6FI=
+

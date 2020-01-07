@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="black" id="0x7f020000" />
+    <public type="drawable" name="black_c" id="0x7f020001" />
+    <public type="drawable" name="blue" id="0x7f020002" />
+    <public type="drawable" name="blue_c" id="0x7f020003" />
+    <public type="drawable" name="funclk" id="0x7f020004" />
+    <public type="drawable" name="numclk" id="0x7f020006" />
+    <public type="drawable" name="ic_launcher" id="0x7f020005" />
+    <public type="layout" name="calculator" id="0x7f030000" />
+    <public type="string" name="app_name" id="0x7f040000" />
+    <public type="string" name="hello_world" id="0x7f040001" />
+    <public type="string" name="menu_settings" id="0x7f040002" />
+    <public type="style" name="AppBaseTheme" id="0x7f050000" />
+    <public type="style" name="AppTheme" id="0x7f050001" />
+    <public type="menu" name="calculator" id="0x7f060000" />
+    <public type="id" name="lay" id="0x7f070000" />
+    <public type="id" name="rsText" id="0x7f070001" />
+    <public type="id" name="left" id="0x7f070002" />
+    <public type="id" name="right" id="0x7f070003" />
+    <public type="id" name="tonone" id="0x7f070004" />
+    <public type="id" name="delete" id="0x7f070005" />
+    <public type="id" name="num7" id="0x7f070006" />
+    <public type="id" name="num8" id="0x7f070007" />
+    <public type="id" name="num9" id="0x7f070008" />
+    <public type="id" name="division" id="0x7f070009" />
+    <public type="id" name="num4" id="0x7f07000a" />
+    <public type="id" name="num5" id="0x7f07000b" />
+    <public type="id" name="num6" id="0x7f07000c" />
+    <public type="id" name="multiply" id="0x7f07000d" />
+    <public type="id" name="num1" id="0x7f07000e" />
+    <public type="id" name="num2" id="0x7f07000f" />
+    <public type="id" name="num3" id="0x7f070010" />
+    <public type="id" name="minus" id="0x7f070011" />
+    <public type="id" name="dot" id="0x7f070012" />
+    <public type="id" name="num0" id="0x7f070013" />
+    <public type="id" name="equ" id="0x7f070014" />
+    <public type="id" name="plus" id="0x7f070015" />
+    <public type="id" name="menu_settings" id="0x7f070016" />
+</resources>
